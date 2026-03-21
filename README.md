@@ -150,7 +150,8 @@ const sarang = {
 ---
 
 <div align="center">
-  <img src="assets/profile-footer.svg" alt="Profile footer" width="100%" />
+  <!-- ANIMATED WAVING FOOTER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:38bdf8&height=150&section=footer" width="100%" />
 </div>
 
 <p align="center">
