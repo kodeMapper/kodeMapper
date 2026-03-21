@@ -93,7 +93,7 @@ const sarang = {
 <div align="center">
   <!-- GitHub Stats & Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kodeMapper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&count_private=true" height="192px" alt="kodeMapper GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=kodeMapper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&count_private=true&rank_icon=github" height="192px" alt="kodeMapper GitHub stats"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodeMapper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8" height="192px" alt="kodeMapper top languages"/>
