@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WITH NAME -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1E,100:38BDF8&height=250&section=header&text=Hi!%20I%20am%20Sarang&fontSize=70&fontColor=ffffff&font=Inter&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20|%20Full-Stack%20Engineer&descAlignY=60&descAlign=50" alt="Profile header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1E,100:38BDF8&height=250&section=header&text=Hi!%20I%20am%20Sarang&fontSize=60&fontColor=ffffff&font=Inter&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20and%20Electronics%20Student%20|%20Full-Stack%20Engineer&descAlignY=60&descAlign=50" alt="Profile header" width="100%" />
 
 <br/>
 <!-- 3D ANIMATED OCTOCAT / ELEMENT -->
@@ -12,6 +12,8 @@
   <!-- Using a custom coder font (Fira Code) for typing intro -->
   <img src="https://readme-typing-svg.demolab.com/?lines=CS+%26+Electronics+Student;Building+Full-Stack+Products;Exploring+Automation+%26+ML;Open+Force+for+Creative+Systems&font=Fira+Code&center=true&width=700&height=45&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing intro" />
 </a>
+
+<hr>
 
 <p align="center">
   <a href="https://linkedin.com/in/sarang-gade"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -77,8 +79,6 @@ const sarang = {
 
 ### 🏆 Featured Projects
 
-> Descriptions, stars, and languages are **dynamically fetched** from the latest code versions.
-
 <div align="center">
   <a href="https://github.com/kodeMapper/saranggade">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=kodeMapper&repo=saranggade&theme=radical&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=8B5CF6" alt="saranggade repo card" />
@@ -126,14 +126,12 @@ const sarang = {
 <br/>
 
 <div align="center">
-  <h3>🧊 3D Contributions 🧊</h3>
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="kodeMapper 3D contributions" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>✨ Continuous Contributions ✨</h3>
   <!-- Glitch-free static image linking to the GitHub Action generated snake -->
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg" width="90%">
 </div>
@@ -142,8 +140,11 @@ const sarang = {
 
 <p align="center">
   <b>Built for fast scanning, strong signal, and real project depth.</b><br/>
-  Always open for <b>Full-Stack Roles</b>, <b>Internships</b>, and <b>Collaborations</b>.<br/>
-  Let's connect on <a href="https://linkedin.com/in/sarang-gade">LinkedIn</a>.
+  Always open for <b>Full-Stack Roles</b>, <b>Internships</b>, and <b>Collaborations</b>.
+
+  <a href="https://linkedin.com/in/sarang-gade">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
+  </a>
 </p>
 
 <br/>
