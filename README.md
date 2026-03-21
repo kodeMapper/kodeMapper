@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WITH NAME -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1E,100:38BDF8&height=250&section=header&text=Hi!%20I%20am%20Sarang&fontSize=60&fontColor=ffffff&font=Inter&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20and%20Electronics%20Student%20|%20Full-Stack%20Engineer&descAlignY=60&descAlign=50" alt="Profile header" width="100%" />
+<img src="images/svg/header.svg" width="100%" />
 
 <br/>
 <!-- 3D ANIMATED OCTOCAT / ELEMENT -->
@@ -132,8 +132,12 @@ const sarang = {
 <br/>
 
 <div align="center">
-  <!-- Glitch-free static image linking to the GitHub Action generated snake -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg" width="90%">
+  <!-- Adaptive native picture for the GitHub Action generated snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg" width="90%">
+  </picture>
 </div>
 
 ---
@@ -151,5 +155,5 @@ const sarang = {
 
 <div align="center">
   <!-- PRECISELY PLACED ANIMATED WAVING FOOTER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1E,100:38BDF8&height=150&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:38BDF8,100:0D1117&height=120&section=footer" width="100%" />
 </div>
