@@ -2,36 +2,29 @@
 
 <img src="assets/profile-header.svg" alt="Profile header" width="100%" />
 
-# Sarang Gade
+# Hi there, I'm Sarang Gade 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+and+Electronics+Student;Building+full-stack+products;Exploring+ML%2C+automation%2C+and+systems;Always+shipping%2C+always+learning&font=Fira%20Code&center=true&width=700&height=42&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing intro" />
+<a href="https://iamsarang.dev/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=CS+%26+Electronics+Student;Building+Full-Stack+Products;Exploring+Automation+%26+ML;Open+Force+for+Creative+Systems&font=Fira+Code&center=true&width=700&height=45&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing intro" />
+</a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sarang-gade"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://iamsarang.dev/"><img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/kodeMapper?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/kodeMapper?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Followers"/></a>
+  <a href="https://github.com/kodeMapper"><img src="https://komarev.com/ghpvc/?username=kodeMapper&style=for-the-badge&color=8B5CF6&label=Profile%20Views" alt="Views"/></a>
+</p>
 
 **Building web platforms, automation workflows, and ML-backed tools that solve real problems.**
-
-From a self-updating portfolio system to AI proctoring and maternal health ML,
-I like projects that combine product thinking with technical depth.
-
-[![Followers](https://img.shields.io/github/followers/kodeMapper?style=for-the-badge&logo=github&label=Followers)](https://github.com/kodeMapper)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-27-0F172A?style=for-the-badge&logo=github)](https://github.com/kodeMapper?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Portfolio-iamsarang.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://iamsarang.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarang%20Gade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-gade)
-[![Profile Views](https://komarev.com/ghpvc/?username=kodeMapper&style=for-the-badge&label=Profile%20Views)](https://github.com/kodeMapper)
+From a self-updating portfolio system to AI proctoring and maternal health ML, I build projects that combine product thinking with technical depth.
 
 </div>
 
-## About
+<br/>
 
-I am a **Computer Science and Electronics student** focused on building software
-that feels useful, thoughtful, and production-minded.
+### 👨‍💻 About Me
 
-My work spans **JavaScript, TypeScript, Python, Java, React, Next.js, Node.js,
-FastAPI, Flask, MongoDB, and machine learning**, with a strong bias toward
-projects that do more than just look good in a demo.
-
-I enjoy working on systems where automation, clean interfaces, and measurable
-outcomes matter.
-
-```ts
+```javascript
 const sarang = {
   currentlyBuilding: [
     "automation-first portfolio systems",
@@ -43,164 +36,125 @@ const sarang = {
 };
 ```
 
-## Top Skills
+---
 
-**Languages**
-`JavaScript` `TypeScript` `Python` `Java`
+### 🚀 Tech Stack
 
-**Frontend**
-`React` `Next.js` `HTML` `CSS`
+<div align="center">
 
-**Backend**
-`Node.js` `Express.js` `FastAPI` `Flask`
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+</p>
 
-**Data / ML**
-`scikit-learn` `SMOTE` `OpenCV` `MongoDB`
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
+</p>
 
-**Tools**
-`Git` `Docker` `GitHub Actions` `Vercel` `Render`
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>
+</p>
 
-<details>
-  <summary><b>Expanded Stack</b></summary>
-  <br/>
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+---
 
+### 🏆 Featured Projects
+
+> Descriptions, stars, and languages are **dynamically fetched** from the latest code versions.
+
+<div align="center">
+  <a href="https://github.com/kodeMapper/saranggade">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kodeMapper&repo=saranggade&theme=radical&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=8B5CF6" alt="saranggade repo card" />
+  </a>
+  <a href="https://github.com/kodeMapper/interviewer-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kodeMapper&repo=interviewer-bot&theme=radical&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=8B5CF6" alt="interviewer-bot repo card" />
+  </a>
+  <a href="https://github.com/kodeMapper/pulseai-iot-ml-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kodeMapper&repo=pulseai-iot-ml-project&theme=radical&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=8B5CF6" alt="pulseai repo card" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+  <!-- GitHub Stats & Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kodeMapper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&count_private=true" height="192px" alt="kodeMapper GitHub stats"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodeMapper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8" height="192px" alt="kodeMapper top languages"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Streak Stats & Snake Animation -->
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=kodeMapper&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="kodeMapper contribution streak" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=kodeMapper&bg_color=0D1117&color=8B5CF6&line=38BDF8&point=FFFFFF&hide_border=true" alt="kodeMapper's Activity Graph" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🧊 3D Contributions 🧊</h3>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="kodeMapper 3D contributions" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>✨ Continuous Contributions ✨</h3>
+  <!-- GitHub Snake Animation (updates dynamically via GA) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<details open>
+  <summary><h3>⚡ Recent GitHub Activity</h3></summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+  
 </details>
-
-## Featured Projects
-
-### Sarang Gade: The Automated Smart Portfolio
-
-**Outcome:** turned a personal portfolio into a self-maintaining system with
-automation, review workflows, and deployment hooks.
-
-- **Tech:** `Next.js` `Express.js` `MongoDB`
-- **Build detail:** added GitHub sync, Codolio screenshot automation,
-  Discord notifications, manual fallbacks for LinkedIn data, and
-  human-in-the-loop approval before production updates.
-- **Links:** [Repo](https://github.com/kodeMapper/saranggade) · [Live](https://iamsarang.dev/)
-
-Why it matters: this is more than a portfolio site; it is a productized workflow
-that reduces maintenance overhead and keeps personal branding continuously fresh.
-
-### SecureProctor AI
-
-**Outcome:** built an AI-based interview and exam proctoring system with live
-monitoring, alerting, and webcam-based behavior checks.
-
-- **Tech:** `Python` `FastAPI` `JavaScript`
-- **Build detail:** implemented camera selection, MJPEG streaming,
-  CNN-based gaze checks, face-count detection, MediaPipe fallback logic,
-  and a browser dashboard for live status and violations.
-- **Links:** [Repo](https://github.com/kodeMapper/interviewer-bot)
-
-Why it matters: it tackles a hard real-world problem where accuracy, fallback
-behavior, and usability matter more than surface polish.
-
-### PulseAI: Maternal Health Risk Prediction System
-
-**Outcome:** built a full-stack ML application that predicts maternal health risk
-with **86.7% accuracy** and **94.5% recall** for high-risk cases.
-
-- **Tech:** `Python` `React` `Flask`
-- **Build detail:** compared 7 models, used SMOTE for class balancing,
-  selected Gradient Boosting to reduce false negatives from 5 to 3,
-  and wrapped the model in a React plus MongoDB workflow.
-- **Links:** [Repo](https://github.com/kodeMapper/pulseai-iot-ml-project) · [Live](https://pulseai-frontend.vercel.app/)
-
-Why it matters: it shows end-to-end thinking across ML, API design, frontend UX,
-and domain-specific evaluation where recall mattered more than raw accuracy.
-
-<div align="center">
-
-<a href="https://github.com/kodeMapper/saranggade">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=kodeMapper&repo=saranggade&theme=tokyonight&hide_border=true" alt="saranggade repo card" />
-</a>
-<a href="https://github.com/kodeMapper/interviewer-bot">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=kodeMapper&repo=interviewer-bot&theme=tokyonight&hide_border=true" alt="interviewer-bot repo card" />
-</a>
-<a href="https://github.com/kodeMapper/pulseai-iot-ml-project">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=kodeMapper&repo=pulseai-iot-ml-project&theme=tokyonight&hide_border=true" alt="pulseai repo card" />
-</a>
-
-</div>
-
-## Achievements & Highlights
-
-- Logged **674 contributions in the last year** on GitHub.
-- Built across **27 public repositories** covering frontend, backend, Java,
-  automation, and machine learning.
-- Earned GitHub profile achievements including **Pair Extraordinaire**,
-  **Pull Shark**, **Quickdraw**, and **YOLO**.
-- Built a deployed portfolio system at [iamsarang.dev](https://iamsarang.dev/)
-  with automated update workflows.
-- Shipped projects spanning **AI proctoring**, **healthcare ML**,
-  **portfolio automation**, and **DSA practice in Java**.
-
-## GitHub Stats & Languages
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kodeMapper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  height="165"
-  alt="kodeMapper GitHub stats"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodeMapper&layout=compact&theme=tokyonight&hide_border=true"
-  height="165"
-  alt="kodeMapper top languages"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=kodeMapper&theme=tokyonight&hide_border=true"
-  height="165"
-  alt="kodeMapper contribution streak"
-/>
-
-</div>
-
-## How I Work / Open To
-
-- I prefer **clear specs, fast iterations, and practical solutions** over noise.
-- Open to **internships**, **student developer roles**, and **meaningful collaborations**.
-- Most interested in **full-stack product engineering**, **automation systems**,
-  and **applied machine learning**.
-
-## Contact / CTA
-
-If you're building something ambitious or looking for a developer who likes hard
-problems and fast learning curves, connect with me on
-[LinkedIn](https://linkedin.com/in/sarang-gade) or explore my work at
-[iamsarang.dev](https://iamsarang.dev/).
 
 ---
 
 <div align="center">
-
-<img src="assets/profile-footer.svg" alt="Profile footer" width="100%" />
-
-<sub>
-Built for fast scanning, strong signal, and real project depth.
-</sub>
-
+  <img src="assets/profile-footer.svg" alt="Profile footer" width="100%" />
 </div>
+
+<p align="center">
+  <b>Built for fast scanning, strong signal, and real project depth.</b><br/>
+  Always open for <b>Full-Stack Roles</b>, <b>Internships</b>, and <b>Collaborations</b>.<br/>
+  Let's connect on <a href="https://linkedin.com/in/sarang-gade">LinkedIn</a>.
+</p>
