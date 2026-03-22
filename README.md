@@ -5,7 +5,7 @@
 
 <br/>
 <!-- 3D ANIMATED OCTOCAT & TYPING INTRO SIDE-BY-SIDE -->
-<table border="0" align="center">
+<table border="0" align="center" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="https://iamsarang.dev/">
