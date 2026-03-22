@@ -47,7 +47,7 @@ const sarang = {
 
 ### 🚀 Tech Stack
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="left" width="550" alt="tech stack gif"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="left" width="500" alt="tech stack gif"/>
 
 #### 💻 Languages
 <p align="left">
