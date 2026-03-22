@@ -149,9 +149,7 @@ const sarang = {
   </a>
 </p>
 
-> *Powered by Chai & Code.*
-
-<br/>
+> <p align="center"><i>"Powered by Chai & Code."</i></p>
 
 <div align="center">
   <!-- PRECISELY PLACED ANIMATED WAVING FOOTER -->
