@@ -5,7 +5,7 @@
 
 <br/>
 <!-- 3D ANIMATED OCTOCAT / ELEMENT -->
-<img src="assets/output-onlinegiftools.gif" width="200" />
+<img src="assets/original-a434230e03daba1fb51e8f6e78e94aa2.gif" width="200" />
 <br/>
 
 <a href="https://iamsarang.dev/">
