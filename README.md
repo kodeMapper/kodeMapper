@@ -149,7 +149,7 @@ const sarang = {
   </a>
 </p>
 
-> *"Powered by Chai & Code"*
+> *Powered by Chai & Code.*
 
 <br/>
 
