@@ -47,7 +47,7 @@ const sarang = {
 
 ### 🚀 Tech Stack
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="left" width="500" alt="tech stack gif"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" align="left" width="450" alt="tech stack gif"/>
 
 #### 💻 Languages
 <p align="left">
@@ -69,6 +69,7 @@ const sarang = {
 
 #### ☁️ Data & DevOps
 <p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
