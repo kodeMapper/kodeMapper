@@ -5,7 +5,7 @@
 
 <br/>
 <!-- 3D ANIMATED OCTOCAT / ELEMENT -->
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385db17e54.gif" width="130" />
+<img src="assets/output-onlinegiftools.gif" width="200" />
 <br/>
 
 <a href="https://iamsarang.dev/">
@@ -140,10 +140,10 @@ const sarang = {
 
 <p align="center">
   <b>Built for fast scanning, strong signal, and real project depth.</b><br/>
-  Always open for <b>Full-Stack Roles</b>, <b>Internships</b>, and <b>Collaborations</b>.
+  Always open for <b>Full-Stack Roles</b>, <b>Internships</b>, and <b>Collaborations</b>.<br/><br/>
 
   <a href="https://linkedin.com/in/sarang-gade">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
