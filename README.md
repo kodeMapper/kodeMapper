@@ -4,14 +4,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1E,100:38BDF8&height=250&section=header&text=Hi!%20I%20am%20Sarang&fontSize=60&fontColor=ffffff&font=Inter&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20and%20Electronics%20Student%20|%20Full-Stack%20Engineer&descAlignY=60&descAlign=50" alt="Profile header" width="100%" />
 
 <br/>
-<!-- 3D ANIMATED OCTOCAT / ELEMENT -->
-<img src="assets/original-a434230e03daba1fb51e8f6e78e94aa2.gif" width="200" />
-<br/>
+<!-- 3D ANIMATED OCTOCAT & TYPING INTRO SIDE-BY-SIDE -->
+<table border="0" align="center">
+  <tr>
+    <td>
+      <a href="https://iamsarang.dev/">
+        <img src="https://readme-typing-svg.demolab.com/?lines=CS+%26+Electronics+Student;Building+Full-Stack+Products;Exploring+Automation+%26+ML;Open+Force+for+Creative+Systems&font=Fira+Code&center=true&width=480&height=45&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing intro" />
+      </a>
+    </td>
 
-<a href="https://iamsarang.dev/">
-  <!-- Using a custom coder font (Fira Code) for typing intro -->
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+%26+Electronics+Student;Building+Full-Stack+Products;Exploring+Automation+%26+ML;Open+Force+for+Creative+Systems&font=Fira+Code&center=true&width=700&height=45&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing intro" />
-</a>
+    <td>
+      <img src="assets/original-a434230e03daba1fb51e8f6e78e94aa2.gif" width="180" />
+    </td>
+  </tr>
+</table>
 
 <hr>
 
