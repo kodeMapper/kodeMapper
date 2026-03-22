@@ -95,6 +95,12 @@ const sarang = {
 
 ---
 
+
+<div align="center">
+  <!-- Glitch-free static image linking to the GitHub Action generated snake -->
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg" width="90%">
+</div>
+
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
@@ -131,12 +137,6 @@ const sarang = {
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="kodeMapper 3D contributions" width="100%"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <!-- Glitch-free static image linking to the GitHub Action generated snake -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg" width="90%">
-</div>
 
 ---
 
