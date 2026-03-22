@@ -29,7 +29,7 @@ From a self-updating portfolio system to AI proctoring and maternal health ML, I
 
 <br/>
 
-### 👨‍💻 About Me
+<h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> About Me</h3>
 
 ```javascript
 const sarang = {
@@ -45,16 +45,19 @@ const sarang = {
 
 ---
 
-### 🚀 Tech Stack
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack</h3>
 
 <div align="center">
 
+<h4>💻 Languages</h4>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
   <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
 </p>
+
+<h4>🛠️ Frameworks & Backend</h4>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
@@ -65,6 +68,7 @@ const sarang = {
   <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
 </p>
 
+<h4>☁️ Data & DevOps</h4>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
@@ -77,7 +81,7 @@ const sarang = {
 
 ---
 
-### 🏆 Featured Projects
+<h3><img src="https://media.giphy.com/media/LmqS12xZqjZ3a6Q5Sj/giphy.gif" width="30"> Featured Projects</h3>
 
 <div align="center">
   <a href="https://github.com/kodeMapper/saranggade">
@@ -93,7 +97,7 @@ const sarang = {
 
 ---
 
-### 📊 GitHub Stats & Activity
+<h3><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> GitHub Stats & Activity</h3>
 
 <div align="center">
   <!-- GitHub Stats & Top Languages -->
@@ -107,34 +111,43 @@ const sarang = {
 
 <br/>
 
-<div align="center">
-  <!-- Streak Stats -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=kodeMapper&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="kodeMapper contribution streak" />
-  </a>
-</div>
+<details>
+  <summary><b>🔥 Streak Stats</b></summary>
+  <br/>
+  <div align="center">
+    <!-- Streak Stats -->
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com?user=kodeMapper&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" alt="kodeMapper contribution streak" />
+    </a>
+  </div>
+  <br/>
+</details>
 
-<br/>
+<details>
+  <summary><b>📈 Activity Graph</b></summary>
+  <br/>
+  <div align="center">
+    <!-- GitHub Activity Graph -->
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph/?username=kodeMapper&bg_color=0D1117&color=8B5CF6&line=38BDF8&point=FFFFFF&hide_border=true" alt="kodeMapper's Activity Graph" />
+    </a>
+  </div>
+  <br/>
+</details>
 
-<div align="center">
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=kodeMapper&bg_color=0D1117&color=8B5CF6&line=38BDF8&point=FFFFFF&hide_border=true" alt="kodeMapper's Activity Graph" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="kodeMapper 3D contributions" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Glitch-free static image linking to the GitHub Action generated snake -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg" width="90%">
-</div>
+<details>
+  <summary><b>🐍 3D Contributions & Snake Animation</b></summary>
+  <br/>
+  <div align="center">
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="kodeMapper 3D contributions" width="100%"/>
+  </div>
+  <br/>
+  <div align="center">
+    <!-- Glitch-free static image linking to the GitHub Action generated snake -->
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg" width="90%">
+  </div>
+  <br/>
+</details>
 
 ---
 
