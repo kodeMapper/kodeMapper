@@ -149,6 +149,8 @@ const sarang = {
   </a>
 </p>
 
+> *"Powered by Chai & Code"*
+
 <br/>
 
 <div align="center">
