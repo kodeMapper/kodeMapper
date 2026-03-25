@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WITH NAME -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1E,100:38BDF8&height=250&section=header&text=Hi!%20I%20am%20Sarang&fontSize=60&fontColor=ffffff&font=Inter&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20and%20Electronics%20Student%20|%20Full-Stack%20Engineer&descAlignY=60&descAlign=50" alt="Profile header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1C1E,100:38BDF8&height=250&section=header&text=Hi!%20I%20am%20Sarang&fontSize=60&fontColor=ffffff&font=Inter&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20and%20Electronics%20Student%20|%20Full-Stack%20Developer&descAlignY=60&descAlign=50" alt="Profile header" width="100%" />
 
 <br/>
 <!-- 3D ANIMATED OCTOCAT & TYPING INTRO SIDE-BY-SIDE -->
