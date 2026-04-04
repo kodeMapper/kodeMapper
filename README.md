@@ -88,8 +88,8 @@ const sarang = {
   <a href="https://github.com/kodeMapper/pulseai-iot-ml-project">
     <img src="https://opengraph.githubassets.com/1/kodeMapper/pulseai-iot-ml-project" alt="pulseai repo card" width="32%" />
   </a>
-  <a href="https://github.com/kodeMapper/raksha-setu">
-    <img src="https://opengraph.githubassets.com/1/kodeMapper/raksha-setu" alt="raksha-setu repo card" width="32%" />
+  <a href="https://github.com/kodeMapper/saranggade">
+    <img src="https://opengraph.githubassets.com/1/kodeMapper/saranggade" alt="raksha-setu repo card" width="32%" />
   </a>
 </div>
 
