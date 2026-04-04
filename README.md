@@ -98,7 +98,7 @@ const sarang = {
 
 <div align="center">
   <!-- Glitch-free static image linking to the GitHub Action generated snake -->
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg" width="90%">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kodeMapper/kodeMapper/output/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ### 📊 GitHub Stats & Activity
