@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=CS+%26+Electronics+Student;Building+Full-Stack+Products;Exploring+Automation+%26+ML;Open+Force+for+Creative+Systems&font=Fira+Code&center=true&width=480&height=45&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing intro" align="middle" />
   </a>
   &nbsp;&nbsp;
-  <img src="assets\yo boy.gif" width="250" align="middle" />
+  <img src="assets/yo%20boy.gif" width="250" align="middle" />
 </p>
 
 <hr>
@@ -82,14 +82,14 @@ const sarang = {
 ### 🏆 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/kodeMapper/saranggade">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kodeMapper&repo=saranggade&theme=radical&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=8B5CF6" alt="saranggade repo card" />
-  </a>
   <a href="https://github.com/kodeMapper/interviewer-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kodeMapper&repo=interviewer-bot&theme=radical&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=8B5CF6" alt="interviewer-bot repo card" />
+    <img src="https://opengraph.githubassets.com/1/kodeMapper/interviewer-bot" alt="interviewer-bot repo card" width="32%" />
   </a>
   <a href="https://github.com/kodeMapper/pulseai-iot-ml-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kodeMapper&repo=pulseai-iot-ml-project&theme=radical&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=8B5CF6" alt="pulseai repo card" />
+    <img src="https://opengraph.githubassets.com/1/kodeMapper/pulseai-iot-ml-project" alt="pulseai repo card" width="32%" />
+  </a>
+  <a href="https://github.com/kodeMapper/raksha-setu">
+    <img src="https://opengraph.githubassets.com/1/kodeMapper/raksha-setu" alt="raksha-setu repo card" width="32%" />
   </a>
 </div>
 
@@ -104,13 +104,8 @@ const sarang = {
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- GitHub Stats & Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=kodeMapper&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8&count_private=true&rank_icon=github" height="192px" alt="kodeMapper GitHub stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodeMapper&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=38BDF8" height="192px" alt="kodeMapper top languages"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kodeMapper&theme=github_dark" height="192px" alt="kodeMapper GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kodeMapper&theme=github_dark" height="192px" alt="kodeMapper top languages"/>
 </div>
 
 <br/>
