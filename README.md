@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=CS+%26+Electronics+Student;Building+Full-Stack+Products;Exploring+Automation+%26+ML;Open+Force+for+Creative+Systems&font=Fira+Code&center=true&width=480&height=45&color=38BDF8&vCenter=true&pause=1000&size=22" alt="Typing intro" align="middle" />
   </a>
   &nbsp;&nbsp;
-  <img src="assets/yo%20boy.gif" width="250" align="middle" />
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" align="middle"/>
 </p>
 
 <hr>
